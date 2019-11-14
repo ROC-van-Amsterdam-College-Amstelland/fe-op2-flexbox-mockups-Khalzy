@@ -1,0 +1,47 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    display: flex;
+}
+
+
+.menu-button {
+    margin: 20px;
+    width: 90px;
+    height: 50px;
+    background-color: white;
+}
+
+header {
+    height: 100%;
+    width: 100%;
+    background: green;
+}
+
+
+main {
+    margin: 20px;
+    width: 100%;
+}
+.text-balk {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    /* flex-flow: column; */
+    object-fit: contain;
+    width: 1200px;
+    height: 160px;
+    background-color: purple;
+    padding: 30px;
+}
+
+img {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 40px;
+    width: 150px;
+    height: 150px;
+    
+}
